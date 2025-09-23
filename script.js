@@ -22,6 +22,16 @@ function getGrade(score) {
   }
 }
 
+function hasPassingGrade (score) {
+  if (score >= 60) {
+    return true;
+  } else {
+    return false;
+  }
+}
+
+
+
 console.log(getGrade(96));
 console.log(getGrade(82));
 console.log(getGrade(56));
