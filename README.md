@@ -1,0 +1,1 @@
+This is a GradeBook app mini project I created as part of the FreeCodeCamp JavaScript Algorithms and Data Structures curriculum. In this mini project I got to review JavaScript fundamentals like functions, variables, conditionals by building a gradebook App.
